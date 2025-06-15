@@ -18,7 +18,7 @@ During Phase 3 of my internship, I implemented a comprehensive network security 
 -  Set up comprehensive audit logging for security operations
 
 ### 3. Threat Detection Implementation
-- 🛡 Developed detection rules for critical security scenarios:
+-   Developed detection rules for critical security scenarios:
   - **Port Scan Detection**: Identified reconnaissance activities through horizontal port scanning
   - **Data Exfiltration Monitoring**: Detected suspicious large data transfers to external systems
   - **Anomalous Network Patterns**: Established baselines for normal traffic and flagged deviations
@@ -67,6 +67,6 @@ Designed and implemented three core security dashboards:
 
 ---
  
-**Repository**: `https://github.com/[your-username]/[repository-name]`
+**Repository**: `[https://github.com/[your-username]/[repository-name]](https://github.com/mahamat-abdelkerim-abakar/siem-internship-phase-3/tree/main/Screenshoots)`
 
 > Screenshots of implementation and dashboards available in `/documentation/screenshots` folder

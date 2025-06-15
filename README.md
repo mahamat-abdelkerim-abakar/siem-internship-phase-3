@@ -67,6 +67,6 @@ Designed and implemented three core security dashboards:
 
 ---
  
-**Repository**: `[https://github.com/[your-username]/[repository-name]](https://github.com/mahamat-abdelkerim-abakar/siem-internship-phase-3/tree/main/Screenshoots)`
+**Repository**: `https://github.com/mahamat-abdelkerim-abakar/siem-internship-phase-3/tree/main/Screenshoots`
 
-> Screenshots of implementation and dashboards available in `/documentation/screenshots` folder
+> Screenshots of implementation and dashboards available in `/screenshots` folder
